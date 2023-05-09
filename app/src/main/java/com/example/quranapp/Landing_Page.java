@@ -24,7 +24,7 @@ public class Landing_Page extends AppCompatActivity {
         GithubBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                goToGithub("https://github.com/ShoaibAkram2001/Android-Projects.git");
+                goToGithub("https://github.com/ShoaibAkram2001/Quran_App.git");
             }
         });
 
@@ -40,7 +40,6 @@ public class Landing_Page extends AppCompatActivity {
    public void goToGithub(String s)
     {
         Uri uri=Uri.parse(s);
-
         Intent i=new Intent(Intent.ACTION_VIEW,uri);
         startActivity((i));
 
