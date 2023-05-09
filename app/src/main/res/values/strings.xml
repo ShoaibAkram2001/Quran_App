@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name"> CONTACT US</string>
+    <string name="App_name">Quran App</string>
+    <string name="main_head1">Center for Peace and Spirituality</string>
+    <string name="main_head2">Get in Touch With Us</string>
+    <string name="tv_Title">Title</string>
+    <string name="tv_Message">Please write your Message</string>
+    <string name="whattsapp_pk">Whattsapp(pk)</string>
+</resources>
